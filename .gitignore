@@ -1,0 +1,18 @@
+# Python
+backend/venv/
+__pycache__/
+*.py[cod]
+
+# Node.js
+frontend/node_modules/
+frontend/dist/
+
+# Logs and local runtime data
+*.log
+
+# Environment and editor files
+.env
+.env.*
+!.env.example
+.DS_Store
+.vscode/
